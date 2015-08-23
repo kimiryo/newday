@@ -6,6 +6,9 @@
     "description": "This is theme new fashion! Have fun guys.",
     "homepage": "https://github.com/kimiryo/newday",
     "version": "1.0.0",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
     "theme": {
         "file": "newday.less",
         "dark": true,
