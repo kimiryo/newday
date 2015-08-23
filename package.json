@@ -1,0 +1,15 @@
+{
+    "title": "Themes NewDay",
+    "name": "newday-theme",
+    "author":"Kimiryo",
+    "contributors": "Kimiryo Dominea <@gmail.com>",
+    "description": "This is theme new fashion! Have fun guys.",
+    "homepage": "https://github.com/kimiryo/newday",
+    "version": "1.0.0",
+    "theme": {
+        "file": "newday.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}

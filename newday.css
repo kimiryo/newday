@@ -1,0 +1,137 @@
+/*
+*		@Theme : newday-theme
+*		@author: Kimiryo	
+*		@time : 02:00am
+*/
+/* Set Background theme*/
+/* Set Foreground theme*/
+/*** Create Editor Theme *****************/
+.CodeMirror .CodeMirror-scroll {
+  background: #1d1f21;
+  color: #dddddd;
+}
+.cm-meta {
+  color: #ebfd12;
+}
+.cm-error .cm-minus {
+  background: #F92672;
+  color: white !important;
+}
+/****** Custom UI ************************/
+.CodeMirror .CodeMirror-selected {
+  background: #86a2b7 !important;
+}
+.CodeMirror-overwrite .CodeMirror-cursor {
+  color: white !important;
+}
+/*****************************************/
+/*************** css **************/
+.cm-tag {
+  color: #b87eff !important;
+}
+.cm-builtin {
+  /*css id */
+  color: #ff0033;
+}
+.cm-qualifier {
+  /*css class*/
+  color: #19dd19;
+}
+.cm-variable-3 {
+  /*css ::pesuodo*/
+  color: #86e698;
+}
+.cm-atom {
+  /*css value */
+  color: white;
+}
+.cm-property {
+  /*css attrs*/
+  color: #9fb74e;
+}
+/*************** html *************/
+.cm-attribute {
+  color: #2d91dc;
+}
+.cm-string-2 {
+  color: white;
+}
+.cm-def {
+  /*out element <>*/
+  color: white;
+}
+/* number : css + php + js ********/
+.cm-number {
+  color: #e84c94;
+}
+/************* PHP ****************/
+.cm-variable-2 {
+  /* variable */
+  color: #b87eff;
+}
+.cm-def,
+.cm-bracket {
+  /* name class*/
+  color: #39e56e;
+}
+.cm-string-2 {
+  color: white;
+}
+.cm-string {
+  background: ;
+  color: ;
+}
+/* keyword: class_php var_js attrs_css */
+.cm-keyword {
+  color: #f0365a;
+}
+.cm-variable {
+  color: white;
+}
+.cm-operator {
+  color: white;
+}
+/************ UnKnown *************/
+.cm-link {
+  color: #b77fdb;
+  text-decoration: none;
+}
+.cm-header {
+  color: #ff0b81;
+}
+.cm-rangeinfo {
+  color: #6c71c4;
+}
+.cm-hr {
+  color: pink;
+}
+/**********************************/
+/**********************************/
+/**********************************/
+/**********************************/
+/**********************************/
+/**********************************/
+/************ UI **********************************/
+#status-bar {
+  /* Bottom status bar */
+  border-top: 1px solid #dbe6ed;
+  background: #3C3F41;
+  color: #FFF;
+}
+#main-toolbar {
+  color: white;
+  background: white;
+}
+.CodeMirror-matchingbracket {
+  background-color: transparent !important;
+  border-bottom: 1px solid;
+  /* text-decoration: underline does not look that well with large font sizes */
+  color: #FFF !important;
+  padding-bottom: 0.166em;
+}
+.CodeMirror-matchingtag {
+  background-color: transparent;
+  border-bottom: 1px solid #F8F8F2;
+  /* text-decoration: underline does not look that well with large font sizes */
+  padding-bottom: 0.166em;
+}
