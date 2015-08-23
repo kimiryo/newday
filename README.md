@@ -1,7 +1,26 @@
 # newday
 This is theme newday for Brackets
+## ScreenShots
 
-![ScreenShot](https://https://github.com/kimiryo/newday/blob/master/screenshots/html.png)
-![ScreenShot](https://https://github.com/kimiryo/newday/blob/master/screenshots/css.png)
-![ScreenShot](https://https://github.com/kimiryo/newday/blob/master/screenshots/js.png)
-![ScreenShot](https://https://github.com/kimiryo/newday/blob/master/screenshots/php.png)
+### HTML
+![html](screenshots/html.png)
+
+### CSS
+![html](screenshots/css.png)
+
+### JS
+![html](screenshots/js.png)
+
+### PHP
+![html](screenshots/php.png)
+
+## How To Install
+1. Open Brackets
+2. Open the **Extension Manager**
+3. Click on the **Themes** tab
+4. Search for **Theme Newday**
+5. Click **Install**
+
+## Version 
+1.0.0
+-UI Color Scheme : HTML , CSS , JS , PHP
