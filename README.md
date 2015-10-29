@@ -20,7 +20,7 @@ This is theme newday for Brackets
 3. Click on the **Themes** tab
 4. Search for **Theme Newday**
 5. Click **Install**
-
+6. Enjoy it :"3
 ## Version 
 1.0.0
 -UI Color Scheme : HTML , CSS , JS , PHP
